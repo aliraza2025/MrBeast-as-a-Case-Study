@@ -1,3 +1,9 @@
+# YouTube Engagement Analysis With SHAP
+
+[Portfolio and case studies](https://alirazaportfolio2026.netlify.app/)
+
+Independent academic portfolio project by Ali Raza, using public YouTube metadata. This work is not commissioned by or affiliated with MrBeast. Model associations and SHAP explanations do not establish causal effects on engagement.
+
 🎥 YouTube Video Engagement Analysis — MrBeast Case Study
 
 Author: Ali Raza
